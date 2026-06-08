@@ -1,2 +1,2 @@
 hello git
-leraning git today
+learning git today
